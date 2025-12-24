@@ -16,6 +16,13 @@ and derive actionable business insights.
 - **powerbi/** – Interactive Power BI dashboards  
 
 ---
+## 📁 Dataset Note
+The raw dataset used in this project is larger than GitHub’s upload limit (25 MB),
+so it has not been included in this repository.
+
+The analysis is fully reproducible using the processed datasets available
+in the `processed_data/` folder.
+
 
 ## 🛠 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib)
